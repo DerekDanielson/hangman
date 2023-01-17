@@ -4,7 +4,11 @@ let words = [
     'balloon',
     'monkey',
     'coding',
-    'mountain'
+    'mountain',
+    'pancake',
+    'python',
+    'chipmunk',
+    'motorcycle'
 ];
 
 
